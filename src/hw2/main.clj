@@ -1,3 +1,5 @@
+;;Solution to the HW2
+
 (ns hw2.main
   (:require [clojure.java.io :as io]
             [clojure.string :as str]))
